@@ -1,2 +1,14 @@
 # wendingpg-web-resource
-HTML page archive and documentation
+
+页面归档与发布记录
+
+本仓库作为页面发布目录，保存任务生成的 HTML 文件。
+
+## 目录说明
+
+- `README.md` 用于记录仓库用途
+- HTML 文件用于承载发布页面
+
+## 状态说明
+
+页面文件会按任务写入，仓库提交记录可用于查看变化。
